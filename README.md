@@ -1,6 +1,8 @@
 # Creative-Inc
 Digital Media Agency Website
 
+You Can Demo the Site HERE: https://aviihej.github.io/Creative-Inc/
+
 
 ![ci1](https://user-images.githubusercontent.com/15176473/31979812-a65d4300-b916-11e7-9d73-700a435e6bef.png)
 ![ci2](https://user-images.githubusercontent.com/15176473/31979813-a6739b5a-b916-11e7-98ed-3b173f29c65a.png)
